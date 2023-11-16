@@ -12,7 +12,7 @@
   <a href="https://github.com/NicolasMICAUX/cachegenius">
     <img src="https://raw.githubusercontent.com/NicolasMICAUX/cachegenius/main/images/logo.jpg" alt="Logo" width="160" height="160">
   </a>
-  <h1 align="center">🧞‍♂️ CacheGenius</h3>
+  <h1 align="center">CacheGenius</h3>
   <p align="center">
 Accélérez votre code en détectant automatiquement les fonctions qui devraient utiliser la mise en cache !<br/>
 <!--

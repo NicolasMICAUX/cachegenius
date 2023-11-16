@@ -14,7 +14,7 @@
     <img src="https://raw.githubusercontent.com/NicolasMICAUX/cachegenius/main/images/logo.jpg" alt="Logo" width="160" height="160">
   </a>
 
-  <h1 align="center">🧞‍♂️ CacheGenius</h3>
+  <h1 align="center">CacheGenius</h3>
 
   <p align="center">
     Speed-up your code by automatically identifying functions that should use caching!
