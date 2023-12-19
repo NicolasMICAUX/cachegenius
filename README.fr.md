@@ -45,7 +45,7 @@ pip install cachegenius
 ```
 
 Pour analyser un module entier `mypackage`, avec toutes les fonctions et méthodes qu'il contient, ajoutez ces lignes au début de votre code :
-``python
+```python
 import mypackage
 import cachegenius
 
